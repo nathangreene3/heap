@@ -1,4 +1,4 @@
-# heap
+# Heap
 
 ```go
 go get github.com/nathangreene3/heap
